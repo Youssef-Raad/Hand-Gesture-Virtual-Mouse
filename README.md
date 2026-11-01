@@ -3,7 +3,7 @@
 A computer vision application built with Python that allows users to control system mouse operations (cursor movement, left click, right click, double click, and screenshots) using hand gestures detected via a webcam.
 
 ## 📁 Repository Structure
-* `main.ipynb` (or `main.py`): Core application containing frame capture, hand landmarker detection, and gesture recognition logic.
+* `main.ipynb`: Core application containing frame capture, hand landmarker detection, and gesture recognition logic.
 * `util.py`: Helper module containing mathematical utilities for calculating joint angles and landmark distances.
 * `hand_landmarker.task`: MediaPipe Tasks model file for 3D hand landmarker detection.
 
